@@ -3,7 +3,7 @@ Simple PDF generator for MacOS
 
 ## Demo will be added after.
 
-[![Demo Doccou alpha](https://github.com/mihailsalari/PDFGenerator/blob/master/PDFGenerator/Screens/Screen1.png)](https://www.youtube.com/)
+[![Demo Doccou alpha](https://github.com/mihailsalari/PDFGenerator/blob/master/Screens/Screen1.png)](https://www.youtube.com/)
 
 ## Support
 
